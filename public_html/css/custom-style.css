@@ -2,7 +2,7 @@ div {
     border-style: ridge;
     border-width: 5px;
     padding: 30px;
-    border-color: green;
+    border-color: blue;
 }
 
 .container {
@@ -10,9 +10,17 @@ div {
 }
 
 .row {
-    border-color: red;
+    border-color: maroon;
 }
 
 nav {
-    
+   color: chartreuse; 
+}
+
+body {
+    background-image: url("http://warthunder.com/upload/image/media/wallpapers/ardenns_1920x1080_logo.jpg");
+}
+
+body {
+    backround-image: url("http://warthunder.com/upload/image/media/wallpapers/p51d30_vs_fw190d12_1920x1080_1944_logo.jpg");
 }
