@@ -17,10 +17,14 @@ nav {
    color: chartreuse; 
 }
 
-body {
+#page1 {
     background-image: url("http://warthunder.com/upload/image/media/wallpapers/ardenns_1920x1080_logo.jpg");
 }
 
-body {
-    backround-image: url("http://warthunder.com/upload/image/media/wallpapers/p51d30_vs_fw190d12_1920x1080_1944_logo.jpg");
+#page2 {
+    background-image: url("http://warthunder.com/upload/image/media/wallpapers/p51d30_vs_fw190d12_1920x1080_1944_logo.jpg");
+}
+
+#page3 {
+    background-image: url("http://warthunder.com/upload/image/media/screenshots/Stars%20and%20Comets%20-2ndplace.jpg");
 }
