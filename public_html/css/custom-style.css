@@ -43,10 +43,16 @@ nav {
     color: blue;
 }
 
-header {
-   color: red;
-}
-
 #art1 {
    color: blue;
+   background-color: black;
+}
+
+#art2 {
+    background-color: blue;
+}
+
+#head1 {
+    color: red;
+    background-color: black;
 }
