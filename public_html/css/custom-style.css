@@ -10,7 +10,7 @@ div {
 }
 
 .row {
-    border-color: maroon;
+    border-color: red;
 }
 
 nav {
@@ -18,13 +18,35 @@ nav {
 }
 
 #page1 {
-    background-image: url("http://warthunder.com/upload/image/media/wallpapers/ardenns_1920x1080_logo.jpg");
+    background-image: url("http://th00.deviantart.net/fs70/PRE/f/2012/366/8/0/the_teutonic_hochmeister__several_resolutions__by_jpviktorjokinen-d5po8ou.jpg");
+    background-repeat: no-repeat;
+    background-size: 1300px;
 }
 
 #page2 {
-    background-image: url("http://warthunder.com/upload/image/media/wallpapers/p51d30_vs_fw190d12_1920x1080_1944_logo.jpg");
+    background-image: url("http://images3.alphacoders.com/269/269909.jpg");
 }
 
 #page3 {
-    background-image: url("http://warthunder.com/upload/image/media/screenshots/Stars%20and%20Comets%20-2ndplace.jpg");
+    background-image: url("http://fc02.deviantart.net/fs70/f/2010/288/3/2/knight_by_tomisaksen-d30sqqs.jpg");
+}
+
+#para1 {
+    color: blue;
+}
+
+#para2 {
+    color: blue;
+}
+
+#para3 {
+    color: blue;
+}
+
+header {
+   color: red;
+}
+
+#art1 {
+   color: blue;
 }
