@@ -2,19 +2,20 @@ div {
     border-style: ridge;
     border-width: 5px;
     padding: 30px;
-    border-color: blue;
+    border-color: transparent;
+    background-color: white;
 }
 
 .container {
-    border-color: blue;
+    border-color: transparent;
 }
 
 .row {
-    border-color: red;
+    border-color: transparent;
 }
 
 nav {
-   color: chartreuse; 
+   color: transparent; 
 }
 
 #page1 {
